@@ -21,8 +21,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎓 School Management System](https://github.com/tuankaka1511/project/blob/main/school-management.rar) | School achievement ranking and competition management system | `PHP`, `Laravel`, `Javascript`, `MySQL` |
-| [🌐 Personal Portfolio](https://tuankaka1511.github.io) | A sleek portfolio site to showcase my work |`Tailwind`, `Framer Motion` |
+| [🎓 School Management System](https://github.com/tuankaka-dev/project/blob/main/school-management.rar) | School achievement ranking and competition management system | `PHP`, `Laravel`, `Javascript`, `MySQL` |
+| [🌐 Personal Portfolio](https://tuankaka-dev.github.io) | A sleek portfolio site to showcase my work |`Tailwind`, `Framer Motion` |
 
 ---
 
@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuankaka1511&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuankaka1511&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuankaka-dev&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuankaka-dev&theme=radical" width="48%" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuankaka1511&theme=radical&no-bg=true&no-frame=true&margin-w=12&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tuankaka-dev&theme=radical&no-bg=true&no-frame=true&margin-w=12&column=5" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuankaka1511&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuankaka-dev&theme=tokyo-night" />
 </p>
 
 ---
