@@ -9,12 +9,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **###########**
 - 🌱 I’m learning **Computer Engineering**
 - 💬 Ask me about: `C++`, `Python`, `IoT`, `Web Dev`
 - 📫 Reach me: **vonguyenthetuan@gmail.com**
-- ⚡ Fun fact: I'm more productive at night 🌙
-
+  
 ---
 
 ## 🏗️ Featured Projects
@@ -60,10 +58,10 @@
 ---
 
 ## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/the-tuan-vo-nguyen-8aa653341)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bigia.thetuan)
-
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/the-tuan-vo-nguyen-8aa653341)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bigia.thetuan)
+</p>
 
 ---
 <p align="center">
