@@ -59,9 +59,14 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/the-tuan-vo-nguyen-8aa653341)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bigia.thetuan)
+  <a href="https://linkedin.com/in/the-tuan-vo-nguyen-8aa653341">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://facebook.com/bigia.thetuan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </p>
+
 
 ---
 <p align="center">
