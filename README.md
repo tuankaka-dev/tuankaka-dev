@@ -19,7 +19,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎓 School Management System](https://github.com/tuankaka-dev/project/blob/main/school-management.rar) | School achievement ranking and competition management system | `PHP`, `Laravel`, `Javascript`, `MySQL` |
+| [🎓 School Management System](https://github.com/tuankaka-dev/school-management.rar) | School achievement ranking and competition management system | `PHP`, `Laravel`, `Javascript`, `MySQL` |
 | [🌐 Personal Portfolio](https://tuankaka-dev.github.io) | A sleek portfolio site to showcase my work |`Tailwind`, `Framer Motion` |
 
 ---
