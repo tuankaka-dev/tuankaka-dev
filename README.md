@@ -21,7 +21,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎓 School Management System]([https://github.com/tuankaka1511/smart-health-monitor](https://github.com/tuankaka1511/project/blob/main/school-management.rar)) | School achievement ranking and competition management system | `PHP`, `Laravel`, `Javascript`, `MySQL` |
+| [🎓 School Management System](https://github.com/tuankaka1511/project/blob/main/school-management.rar) | School achievement ranking and competition management system | `PHP`, `Laravel`, `Javascript`, `MySQL` |
 | [🌐 Personal Portfolio](https://tuankaka1511.github.io) | A sleek portfolio site to showcase my work |`Tailwind`, `Framer Motion` |
 
 ---
