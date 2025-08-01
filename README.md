@@ -65,6 +65,7 @@
   <a href="https://facebook.com/bigia.thetuan">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
+    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=tmih06&countColor=%234a12ba" alt="Profile Views"/>
 </p>
 
 
