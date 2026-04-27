@@ -12,13 +12,13 @@
 ### 📊 Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuankaka-dev&hide=issues,contribs&show_icons=true&theme=cobalt" height="195" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuankaka-dev&hide=issues,contribs&show_icons=true&theme=cobalt&cache_id=1" height="195" width="48%" />
   
-  <img src="https://streak-stats.demolab.com/?user=tuankaka-dev&theme=radical&hide_current_streak=true&theme=cobalt&background=45%2C141272%2C70505E" height="155" width="48%"  />
+  <img src="https://streak-stats.demolab.com/?user=tuankaka-dev&theme=radical&hide_current_streak=true&theme=cobalt&background=45%2C141272%2C70505E&cache_id=1" height="155" width="48%"  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuankaka-dev&theme=apprentice" width="100% />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuankaka-dev&theme=apprentice&cache_id=1" width="100% />
 </p>
 
 ---
