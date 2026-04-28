@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tuankaka-dev&hide=issues&show_icons=true&theme=cobalt&line_height=28" height="195" width="46%" />
   
-  <img src="https://streak-stats.demolab.com/?user=tuankaka-dev&theme=radical&hide_current_streak=true&theme=cobalt&background=45%2C141272%2C70505E&cache_id=1" height="305" width="46%"   />
+  <img src="https://streak-stats.demolab.com/?user=tuankaka-dev&theme=radical&hide_current_streak=true&theme=cobalt&background=45%2C141272%2C70505E" height="305" width="46%"   />
   
 </p>
 </p>
